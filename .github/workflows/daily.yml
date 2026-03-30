@@ -30,5 +30,4 @@ jobs:
           name: lime-report-${{ github.run_number }}
           path: |
             lime_report_*.html
-            prev_data.json
           retention-days: 30
